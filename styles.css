@@ -1,0 +1,19 @@
+body{
+    
+    background-color: white;
+    height: 100vh;
+    margin: 0%;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.myClass{
+    
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 3px white;
+    overflow: hidden;
+    
+}
+
